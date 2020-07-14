@@ -1,0 +1,6 @@
+https://github.com/request/request
+
+https://github.com/ISNIT0/Rightmove-Scrapers
+
+Server security checks:
+https://stackoverflow.com/questions/9391137/can-servers-block-curl-requests
